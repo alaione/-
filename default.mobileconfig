@@ -17,8 +17,8 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>18338835261</key>
-			<string>123456</string>
+			<key>Password</key>
+			<string>18338835261</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.123.201</string>
+			<string>192.168.123.230</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
